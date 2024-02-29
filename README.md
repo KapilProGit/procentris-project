@@ -1,2 +1,2 @@
 # procentris-project
-This is a rep for procentris-project
+This is a repo for procentris-project
